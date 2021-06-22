@@ -131,4 +131,5 @@ dmypy.json
 # Large data files
 price-data/
 tweets/
+tweets/tweets.csv
 twint/
